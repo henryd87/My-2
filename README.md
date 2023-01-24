@@ -2,6 +2,6 @@
 
 some text
 
-## More added text, just for checking.
+## Local Development
 
-1. Open index.html in browser please.
+1. Open index.html please.
